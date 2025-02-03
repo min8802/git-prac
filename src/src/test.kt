@@ -11,11 +11,7 @@ fun main() {
     println("test6")
     println("test10")
     println("test11")
-    println("test12")
-    println("test13")
-    println("test14")
-    println("test15")
-    println("test16")
+    println("test17")
     println("test20")
     println("test21")
     println("test22")
@@ -29,4 +25,5 @@ fun main() {
     println("test24")
     println("test24")
     println("test24")
+    println("test22")
 }
