@@ -4,4 +4,6 @@ class test {
 
 fun main() {
     println("test")
+    println("test1")
+    println("test2")
 }
